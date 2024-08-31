@@ -11,9 +11,9 @@ A simple Solidity contract to manage warehouse slots. Employees can add, reserve
 
 ## error handling
 
--**ASSERT**
--**REQUIRE**
--**REVERT**
+- **ASSERT**
+- **REQUIRE**
+- **REVERT**
 
 ## Smart Contract
 
