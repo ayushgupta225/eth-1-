@@ -9,6 +9,12 @@ A simple Solidity contract to manage warehouse slots. Employees can add, reserve
 - **Free Slot**: Release a reserved slot.
 - **Check Availability**: View slot details and availability.
 
+## error handling
+
+-**ASSERT**
+-**REQUIRE**
+-**REVERT**
+
 ## Smart Contract
 
 ```solidity
